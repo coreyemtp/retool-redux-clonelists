@@ -1,8 +1,8 @@
 > [!IMPORTANT]
-> Retool is no longer maintained. [Read the thread](https://github.com/unexpectedpanda/retool/issues/337)
-for more information on what this means.
+> The orignal Retool is no longer maintained. [Read the thread](https://github.com/unexpectedpanda/retool/issues/337)
+for more information.
 
-This is the repository for [Retool's](https://unexpectedpanda.github.io/retool/) clone
+This is the repository for [Retool Redux's](https://github.com/coreyemtp/retool-redux) clone
 list and metadata files. It also hosts `config/internal-config.json`.
 
 ## Contributions
@@ -14,17 +14,16 @@ Contributions are welcome. Before submitting a pull request, make sure to read
 [Guidelines for pull requests](https://unexpectedpanda.github.io/retool/contribute-clone-lists-pull-request/)
 can be found in the same section.
 
-### Metadata files
-
-Metadata files are auto-generated from Redump and No-Intro databases, and shouldn't be
-manually updated.
-
-To make a change, don't submit a PR. Instead, report the issue upstream:
-
 ### MIA and RetroAchievements files
 
 MIA and RetroAchievements files are pulled from external servers on a weekly basis, and
 should not be manually updated. If the sources stop updating, then so will these files.
+
+### Metadata files
+
+Metadata files are auto-generated from Redump and No-Intro databases, and shouldn't be
+manually updated. Issues that arise here cannot be fixed in Retool Redux, but rather
+should be directed to the DAT creator:
 
 #### No-Intro
 
@@ -40,5 +39,4 @@ should not be manually updated. If the sources stop updating, then so will these
 
 #### Redump
 
-Go to Redump's [**Fixes & additions** forum](http://forum.redump.org/forum/15/fixes-additions/),
-and request the issue be fixed.
+Go to Redump's [**Fixes & additions** forum](http://forum.redump.org/forum/15/fixes-additions/), and request the issue be fixed.
