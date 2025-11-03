@@ -15,7 +15,7 @@
 		{
 			"group": "ColecoVision Monitor Test",
 			"titles": [
-				{"searchTerm": "ColecoVision Monitor Test", "categories": ["applications"]}
+				{"searchTerm": "ColecoVision Monitor Test", "categories": ["Applications"]}
 			]
 		},
 		{
@@ -28,7 +28,7 @@
 		{
 			"group": "Final Test Cartridge",
 			"titles": [
-				{"searchTerm": "Final Test Cartridge", "categories": ["applications"]}
+				{"searchTerm": "Final Test Cartridge", "categories": ["Applications"]}
 			]
 		},
 		{
@@ -59,8 +59,9 @@
 		{
 			"group": "Super Controller Tester",
 			"titles": [
-				{"searchTerm": "Super Controller Tester", "categories": ["applications"]}
+				{"searchTerm": "Super Controller Tester", "categories": ["Applications"]}
 			]
 		}
 	]
 }
+
